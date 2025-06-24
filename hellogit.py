@@ -1,2 +1,2 @@
-print("ahora estoy editando el fichero hellogit.py")
+print(" new ahora estoy editando el fichero hellogit.py")
 
