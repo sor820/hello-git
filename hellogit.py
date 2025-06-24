@@ -1,3 +1,2 @@
-print("hello git world")
-print("hello git world 2")
-print("hello git world 3")
+print("ahora estoy editando el fichero hellogit.py")
+
