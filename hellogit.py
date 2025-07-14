@@ -1,2 +1,2 @@
-print(" new ahora estoy editando el fichero hellogit.py")
+print(" new hello GitHub")
 
